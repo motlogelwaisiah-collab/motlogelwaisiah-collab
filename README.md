@@ -73,10 +73,10 @@ I enjoy creating projects that combine creativity, logic, and functionality. My 
 
 ## Connect With Me
 - GitHub: https://github.com/motlogelwaisiah-collab
-- GitHub: https://deemples.ai/isiahxmonyeki
--  GitHub: 
+- GitHub: 
+- Combine By AI GitHub: https://deemples.ai/isiahxmonyeki
 - Email: [motlogelwaisiah@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/isiah-monyeki-0a4212389/]https://deemples.ai/isiahxmonyeki
+- LinkedIn: [https://www.linkedin.com/in/isiah-monyeki-0a4212389/]
 
 ## Personal Motto
 “Code is not just about building software — it’s about solving problems and creating value.”
