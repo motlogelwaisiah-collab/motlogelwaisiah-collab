@@ -37,7 +37,6 @@ I’m a passionate software developer who enjoys building practical, user-focuse
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## DevOps, Cloud & Infrastructure
 
@@ -74,8 +73,10 @@ I enjoy creating projects that combine creativity, logic, and functionality. My 
 
 ## Connect With Me
 - GitHub: https://github.com/motlogelwaisiah-collab
-- Email: [your.email@example.com]
-- LinkedIn: [your-linkedin-profile]
+- GitHub: https://deemples.ai/isiahxmonyeki
+-  GitHub: 
+- Email: [motlogelwaisiah@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/isiah-monyeki-0a4212389/]https://deemples.ai/isiahxmonyeki
 
 ## Personal Motto
 “Code is not just about building software — it’s about solving problems and creating value.”
